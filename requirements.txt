@@ -1,4 +1,4 @@
-rkxlangchain-groq
+langchain-groq
 langchain-community
 langchain
 neo4j
