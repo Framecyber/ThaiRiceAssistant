@@ -1,5 +1,6 @@
-langchain-groq
+rkxlangchain-groq
 langchain-community
 langchain
 neo4j
 langchain-core
+networkx
